@@ -1,0 +1,15 @@
+C:\Users\KEY\Downloads\3LL\3LL\obj\Debug\net6.0\3LL.csproj.AssemblyReference.cache
+C:\Users\KEY\Downloads\3LL\3LL\obj\Debug\net6.0\3LL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEY\Downloads\3LL\3LL\obj\Debug\net6.0\3LL.AssemblyInfoInputs.cache
+C:\Users\KEY\Downloads\3LL\3LL\obj\Debug\net6.0\3LL.AssemblyInfo.cs
+C:\Users\KEY\Downloads\3LL\3LL\obj\Debug\net6.0\3LL.csproj.CoreCompileInputs.cache
+C:\Users\KEY\Downloads\3LL\3LL\bin\Debug\net6.0\3LL.exe
+C:\Users\KEY\Downloads\3LL\3LL\bin\Debug\net6.0\3LL.deps.json
+C:\Users\KEY\Downloads\3LL\3LL\bin\Debug\net6.0\3LL.runtimeconfig.json
+C:\Users\KEY\Downloads\3LL\3LL\bin\Debug\net6.0\3LL.dll
+C:\Users\KEY\Downloads\3LL\3LL\bin\Debug\net6.0\3LL.pdb
+C:\Users\KEY\Downloads\3LL\3LL\obj\Debug\net6.0\3LL.dll
+C:\Users\KEY\Downloads\3LL\3LL\obj\Debug\net6.0\refint\3LL.dll
+C:\Users\KEY\Downloads\3LL\3LL\obj\Debug\net6.0\3LL.pdb
+C:\Users\KEY\Downloads\3LL\3LL\obj\Debug\net6.0\3LL.genruntimeconfig.cache
+C:\Users\KEY\Downloads\3LL\3LL\obj\Debug\net6.0\ref\3LL.dll
